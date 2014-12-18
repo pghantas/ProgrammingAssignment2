@@ -2,7 +2,7 @@
 ## and returns the cached inverse if it is avialable
 ## Otherwise it will sovle and returns the inverse
 
-## Creates the special matrix by Praveen
+## Creates the special matrix by Praveen Ghantasala
  
  makeCacheMatrix <- function(x = matrix()) {
 	m <- NULL
